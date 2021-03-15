@@ -8,11 +8,17 @@ The classifiers implemented- a) Bayes’ Classifier
 
 
 Pattern-Recognition-Classifiers-Bayes-SVM-
+
   |
+  
   |------Code
+  
   |
+  
   |-----report.pdf
+  
   |
+  
   |-----readme.txt
 
 
